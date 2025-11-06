@@ -58,8 +58,11 @@
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
    
 </p>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcianocode&layout=donut&theme=vision-friendly-dark" alt="Gráfico Rosca de Linguagens" />
+</p>
 ---
+
 
 <p align="center">
   <sub>Feito com 💜 por <strong>MarcianoCode</strong> | Criatividade com propósito</sub>
